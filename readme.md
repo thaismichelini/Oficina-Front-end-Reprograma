@@ -5,9 +5,10 @@
 
 ##
 
-<a href="https://github.com/thaismichelini">Site Pessoal desenvolvido durante a oficina online Todas em Tech</a>
+<div align="center">
+    <a href="https://github.com/thaismichelini">Site Pessoal desenvolvido durante a oficina online Todas em Tech</a>
+</div>  
 
-##
 
-## Aula ministrada pela professora **@davinyvidal**
+### Aula ministrada pela professora **@davinyvidal**
 
