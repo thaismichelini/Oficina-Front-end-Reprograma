@@ -6,7 +6,7 @@
 ##
 
 <div align="center">
-    <a href="https://github.com/thaismichelini">Site Pessoal desenvolvido durante a oficina online Todas em Tech</a>
+    <a href="https://thaismichelini.github.io/Oficina-Front-end-Reprograma/">Site Pessoal desenvolvido durante a oficina online Todas em Tech</a>
 </div>  
 
 
